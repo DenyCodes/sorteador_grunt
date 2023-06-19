@@ -1,7 +1,6 @@
 {
   "name": "grunt",
   "version": "1.0.0",
-  "description": "",
   "main": "gruntfile.js",
   "scripts": {
     "grunt": "grunt",
@@ -17,10 +16,12 @@
     "grunt-contrib-sass": "^2.0.0",
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-replace": "^2.0.2"
+    "grunt-replace": "^2.0.2",
+    "less": "^4.1.3"
   },
   "dependencies": {
     "grunt-concurrent": "^3.0.0",
     "grunt-contrib-clean": "^2.0.1"
-  }
+  },
+  "description": ""
 }
